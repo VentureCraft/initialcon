@@ -1,6 +1,6 @@
 <?php
 
-namespace RunMyBusiness\Initialcon;
+namespace VentureCraft\Initialcon;
 
 use Intervention\Image\ImageManagerStatic as Image;
 

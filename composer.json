@@ -1,5 +1,5 @@
 {
-    "name": "runmybusiness/initialcon",
+    "name": "venturecraft/initialcon",
     "type": "library",
     "description": "Create a GMail esque avatar based on the users intials & a persistant identifier such as an email address.",
     "keywords": ["initialcon", "avatar", "image", "picture", "icon"],
@@ -19,6 +19,6 @@
         "fzaninotto/faker": "1.2.*@dev"
     },
     "autoload": {
-        "psr-4": { "RunMyBusiness\\Initialcon\\": "src/" }
+        "psr-4": { "VentureCraft\\Initialcon\\": "src/" }
     }
 }
