@@ -68,7 +68,7 @@ class Initialcon
      */
     public function getTextSize()
     {
-        return (strlen($this->initials) == 2) ? round($this->size / 1.5) : $this->size;
+        return (strlen($this->initials) == 2) ? round($this->size / 4) : $this->size;
     }
 
     /**

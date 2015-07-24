@@ -3,7 +3,7 @@
     "type": "library",
     "description": "Create a GMail esque avatar based on the users intials & a persistant identifier such as an email address.",
     "keywords": ["initialcon", "avatar", "image", "picture", "icon"],
-    "homepage": "http://runmybusiness.com",
+    "homepage": "http://venturecraft.com",
     "license": "MIT",
     "authors": [
         {

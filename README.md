@@ -1,7 +1,5 @@
 # Initial based icon generator for PHP
 
-[![Build Status](https://secure.travis-ci.org/runmybusiness/initialcon.png)](http://travis-ci.org/runmybusiness/initialcon)
-
 ![Initialcon example #1](doc/red.png)&nbsp;&nbsp;
 ![Initialcon example #2](doc/blue.png)&nbsp;&nbsp;
 ![Initialcon example #3](doc/green.png)&nbsp;&nbsp;
@@ -15,7 +13,7 @@ Just create a `composer.json` file for your project:
 ``` json
 {
     "require": {
-        "runmybusiness/initialcon": "*"
+        "VentureCraft/initialcon": "*"
     }
 }
 ```
